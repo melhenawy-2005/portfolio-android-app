@@ -4,4 +4,6 @@
     <string name="tv_aboutActivity">ABOUT ACTIVITY</string>
     <string name="btn_about">About</string>
     <string name="tv_mainActivity">MAIN ACTIVITY</string>
+    <string name="tv_contactActivity">CONTACT ACTIVITY</string>
+    <string name="btn_send">SEND</string>
 </resources>

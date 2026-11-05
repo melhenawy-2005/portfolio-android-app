@@ -32,5 +32,15 @@
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
+    <Button
+        android:id="@+id/btnContact"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:text="Contact Us"
+        android:textSize="20sp"
+        android:backgroundTint="@color/black"
+        app:layout_constraintTop_toBottomOf="@id/btnAbout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="20dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
