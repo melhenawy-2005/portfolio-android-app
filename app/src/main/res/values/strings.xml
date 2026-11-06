@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Combined Version</string>
+    <string name="app_name">My Portfolio App</string>
     <string name="about_text">Hi, I am Maryam. This is my portfolio app for the Software Engineering course. I study at UCAS.</string>
     <string name="tv_aboutActivity">ABOUT ACTIVITY</string>
     <string name="btn_about">About</string>
