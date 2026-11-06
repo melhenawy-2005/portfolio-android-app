@@ -43,4 +43,17 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/btnBlog"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:text="Blog"
+        android:textSize="20sp"
+        android:backgroundTint="@color/black"
+        app:layout_constraintTop_toBottomOf="@id/btnAbout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="20dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
